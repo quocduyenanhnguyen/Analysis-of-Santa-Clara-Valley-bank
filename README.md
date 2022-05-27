@@ -5,3 +5,4 @@ The sample data show the average monthly checking account balance (in hundreds o
 The CSV file named newdatabank was made to predict the probability of customers signing up for direct payroll deposit if they have an average monthly balance of $1200 in their checking account. 
 
 I concluded my analysis of the case study with a PowerPoint presentation. The PowerPoint slides contain output of my R codes and description of the output as well as my conclusion and recomendations. 
+(https://user-images.githubusercontent.com/92205707/170785125-4c7afe28-e3aa-4edf-8f50-5468d6170990.png)
