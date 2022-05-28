@@ -1,7 +1,7 @@
 [Note: You can preview files that are in CSV and R format by clicking on the file]
 
 # Software I used: 
-RStudio 
+[RStudio ](https://www.rstudio.com/products/rstudio/download/)
 
 # Description: 
 - In this case study, I teamed up with 4 classmates to analyze Santa Clara Valley bank dataset by using logistic regression model. I was primarily in charge of writing codes, formatting PowerPoint slides, delegating tasks, and explaning my codes to my classmates as well as helping my classmates out whenever they struggled on analyzing the dataset. 
