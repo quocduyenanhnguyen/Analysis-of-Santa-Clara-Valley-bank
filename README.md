@@ -11,6 +11,6 @@
 - The CSV file named newdatabank was made to predict the probability of customers signing up for direct payroll deposit if they have an average monthly balance of $1200 in their checking account. 
 
 - I concluded my analysis of the case study with a PowerPoint presentation. The PowerPoint slides contain output of my R codes and description of the output as well as my conclusion and recomendations. You can preview screenshot of a few of of my PowerPoint slides here: 
-- (https://user-images.githubusercontent.com/92205707/170785125-4c7afe28-e3aa-4edf-8f50-5468d6170990.png)
-- (https://user-images.githubusercontent.com/92205707/170785307-447e8144-f114-4760-96bf-8a3ed1c6f2bc.png)
-- (https://user-images.githubusercontent.com/92205707/170785335-cb0164ed-c4ef-4d57-9568-1bd4ac35f010.png)
+(https://user-images.githubusercontent.com/92205707/170785125-4c7afe28-e3aa-4edf-8f50-5468d6170990.png)
+(https://user-images.githubusercontent.com/92205707/170785307-447e8144-f114-4760-96bf-8a3ed1c6f2bc.png)
+(https://user-images.githubusercontent.com/92205707/170785335-cb0164ed-c4ef-4d57-9568-1bd4ac35f010.png)
